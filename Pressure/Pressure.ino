@@ -132,4 +132,10 @@ void loop() {
   } }*/
   }
   delay(1000);
+ 1.	The Sound Sensor Module which takes an input as the whistle, which is a sound. 
+2.	The wires which acts as an interface between Sound Sensor Module and NodeMCU,the digital voltage provided by them module to the NodeMCU,it increases the count value increases the count value . 
+3.	As the count value increases and becomes ‘1’, the first LED glows. 
+4.	Since whistle sound delays for few seconds and the process delays and continues for 3-4 
+5.	When the signal is passed for the last whistle ,the buzzer along with Red LED is set high.
+
 
